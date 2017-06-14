@@ -1,6 +1,4 @@
-﻿// Damian Moska�a
-
-// Program 1 - Wariant pierwszy wykorzystuj�cy bufor szablonowy do konstruowania obiekt�w przy u�yciu operacji CSG
+﻿// Program 1 - Wariant pierwszy wykorzystuj�cy bufor szablonowy do konstruowania obiekt�w przy u�yciu operacji CSG
 #include "stdafx.h"
 #include <GL/glut.h>
 #include <stdlib.h>
